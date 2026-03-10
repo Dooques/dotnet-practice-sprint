@@ -1,4 +1,6 @@
-﻿namespace MyFirstProject
+﻿using MyFirstLibrary1;
+
+namespace MyFirstProject
 {
     internal class Program
     {
@@ -14,7 +16,7 @@
             Console.WriteLine("My age is: " + age);
             string favouriteFilm = args[2];
             Console.WriteLine("My favourite film is: " + favouriteFilm);
-            
+            Class1.Hello();
         }
     }
 }
