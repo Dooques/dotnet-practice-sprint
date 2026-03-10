@@ -1,6 +1,6 @@
 ﻿namespace MyFirstLibrary1
 {
-    public class Class1
+    public class PrintLinesClass
     {
         public static void Hello()
         {

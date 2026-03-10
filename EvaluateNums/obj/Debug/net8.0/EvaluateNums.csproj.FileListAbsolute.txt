@@ -1,0 +1,12 @@
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\bin\Debug\net8.0\EvaluateNums.deps.json
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\bin\Debug\net8.0\EvaluateNums.dll
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\bin\Debug\net8.0\EvaluateNums.pdb
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.AssemblyInfoInputs.cache
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.AssemblyInfo.cs
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.csproj.CoreCompileInputs.cache
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.sourcelink.json
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.dll
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\refint\EvaluateNums.dll
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\EvaluateNums.pdb
+C:\Users\Chris\northcoders\intro-week\day2\EvaluateNums\obj\Debug\net8.0\ref\EvaluateNums.dll

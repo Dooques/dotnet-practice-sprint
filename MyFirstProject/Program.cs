@@ -1,4 +1,5 @@
 ﻿using MyFirstLibrary1;
+using EvaluateNums;
 
 namespace MyFirstProject
 {
@@ -16,7 +17,9 @@ namespace MyFirstProject
             Console.WriteLine("My age is: " + age);
             string favouriteFilm = args[2];
             Console.WriteLine("My favourite film is: " + favouriteFilm);
-            Class1.Hello();
+            PrintLinesClass.Hello();
+            Console.WriteLine("1 + 2 = " + Calculator.SumNums(1, 2));
+
         }
     }
 }

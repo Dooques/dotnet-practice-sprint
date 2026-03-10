@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\EvaluateNums\EvaluateNums.csproj" />
     <ProjectReference Include="..\MyFirstLibrary1\MyFirstLibrary1.csproj" />
   </ItemGroup>
 
