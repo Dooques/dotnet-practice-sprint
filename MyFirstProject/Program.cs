@@ -1,5 +1,6 @@
 ﻿using MyFirstLibrary1;
 using EvaluateNums;
+using RandomLibray;
 
 namespace MyFirstProject
 {
@@ -19,7 +20,7 @@ namespace MyFirstProject
             Console.WriteLine("My favourite film is: " + favouriteFilm);
             PrintLinesClass.Hello();
             Console.WriteLine("1 + 2 = " + Calculator.SumNums(1, 2));
-
+            RandomClass.WriteSomething();
         }
     }
 }

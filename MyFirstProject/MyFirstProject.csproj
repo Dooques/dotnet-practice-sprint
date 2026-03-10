@@ -12,4 +12,10 @@
     <ProjectReference Include="..\MyFirstLibrary1\MyFirstLibrary1.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="RandomLibray">
+      <HintPath>..\..\RandomLibraySol\RandomLibray\bin\Debug\net8.0\RandomLibray.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
