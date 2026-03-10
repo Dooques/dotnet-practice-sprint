@@ -1,0 +1,12 @@
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\bin\Debug\net8.0\MyFirstLibrary1.deps.json
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\bin\Debug\net8.0\MyFirstLibrary1.dll
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\bin\Debug\net8.0\MyFirstLibrary1.pdb
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.AssemblyInfoInputs.cache
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.AssemblyInfo.cs
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.sourcelink.json
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.dll
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\refint\MyFirstLibrary1.dll
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\MyFirstLibrary1.pdb
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstLibrary1\obj\Debug\net8.0\ref\MyFirstLibrary1.dll
