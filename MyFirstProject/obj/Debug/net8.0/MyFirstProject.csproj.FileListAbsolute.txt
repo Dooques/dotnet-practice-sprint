@@ -12,3 +12,4 @@ C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstProject
 C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstProject\obj\Debug\net8.0\MyFirstProject.pdb
 C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstProject\obj\Debug\net8.0\MyFirstProject.genruntimeconfig.cache
 C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstProject\obj\Debug\net8.0\ref\MyFirstProject.dll
+C:\Users\Clive\Documents\northcoders\intro-week\MyFirstProjectSol\MyFirstProject\obj\Debug\net8.0\MyFirstProject.sourcelink.json

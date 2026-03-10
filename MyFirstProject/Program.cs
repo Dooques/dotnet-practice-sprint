@@ -9,6 +9,10 @@
             Console.WriteLine("My favourite film is: Blue Velvet");
             string name = "Chris";
             Console.WriteLine("My name is: " + name);
+            int age = 28;
+            Console.WriteLine("My age is: " + age);
+            string favouriteFilm = "Marty Supreme";
+            Console.WriteLine("My favourite film is: " + favouriteFilm);
         }
     }
 }
