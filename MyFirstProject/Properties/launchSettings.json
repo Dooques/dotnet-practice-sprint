@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyFirstProject": {
+      "commandName": "Project",
+      "commandLineArgs": "\"Sam\" 32 \"Blue Velvet\""
+    }
+  }
+}
